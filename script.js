@@ -8,7 +8,7 @@ function oneThroughTwenty(){
 }
 console.log(oneThroughTwenty())
 
-/* function evensToTwenty(){
+function evensToTwenty(){
     
     let meuRetorno = [];
     for(let i=2; i<=20; i+=2){
@@ -16,9 +16,9 @@ console.log(oneThroughTwenty())
     }
     return meuRetorno
 }
-console.log(evensToTwenty()) */
+console.log(evensToTwenty())
 
-/* function oddsToTwenty(){
+function oddsToTwenty(){
     
     let meuRetorno = [];
     for(let i=1; i<=19; i+=2){
@@ -26,9 +26,9 @@ console.log(evensToTwenty()) */
     }
     return meuRetorno
 }
-console.log(oddsToTwenty()) */
+console.log(oddsToTwenty())
 
-/* function squareNumbers(){
+function squareNumbers(){
     
     let meuRetorno = [];
     
@@ -38,9 +38,9 @@ console.log(oddsToTwenty()) */
     }
     return meuRetorno;
 }
-console.log(squareNumbers()) */
+console.log(squareNumbers())
 
-/* function countingBackwards(){
+function countingBackwards(){
     let i=20;
     let meuRetorno = [];
     for(i; i>1; i--){
@@ -48,18 +48,18 @@ console.log(squareNumbers()) */
     }
     return meuRetorno
 }
-console.log(countingBackwards()) */
+console.log(countingBackwards())
 
-/* function evenNumbersBackwards(){
+ function evenNumbersBackwards(){
     let meuRetorno = [];
     for(let i=20; i>=2; i-=2) {
         meuRetorno.push(i)
     }
     return meuRetorno
 }
-console.log(evenNumbersBackwards()) */
+console.log(evenNumbersBackwards()) 
 
-/* function oddNumbersBackwards(){
+function oddNumbersBackwards(){
     let meuRetorno = [];
     
     for(let i=19; i>=1; i-=2){
@@ -67,19 +67,19 @@ console.log(evenNumbersBackwards()) */
     }
     return meuRetorno
 }
-console.log(oddNumbersBackwards()) */
+console.log(oddNumbersBackwards())
 
-/* function multiplesOfFiveBackwards() {
+function multiplesOfFiveBackwards() {
     let meuRetorno = [];
     for(let i=100; i>=5; i-=5){
         meuRetorno.push(i)
     }
     return meuRetorno
 }
-console.log(multiplesOfFiveBackwards()) */
+console.log(multiplesOfFiveBackwards())
 
 
-/* function squareNumbers(){
+function squareNumbers(){
     let meuRetorno= [];
 
     for(let i=10; i>=1; i--) {
@@ -88,4 +88,4 @@ console.log(multiplesOfFiveBackwards()) */
     }
     return meuRetorno;
 }
-console.log(squareNumbers()) */
+console.log(squareNumbers())
